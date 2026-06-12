@@ -58,8 +58,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Akash-jatt&theme=tokyonight&hide_border=true" />
-  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-jatt&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Akash-jatt&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Akash-jatt&hide_border=true" />
 </picture>
 
 <picture>
