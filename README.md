@@ -74,10 +74,6 @@
   <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-jatt&hide_border=true&area=true" />
 </picture>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akash-jatt&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
-
 </div>
 
 ## Contribution snake
