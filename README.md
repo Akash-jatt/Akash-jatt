@@ -10,7 +10,7 @@
 
 ## About me
 
-- 🔭 Currently building **[MARS-1.0](https://github.com/Akash-jatt/mars-1.0)** — a local-first, BYO-key RAG knowledge base (hybrid retrieval: BM25 + dense vectors + RRF + reranking)
+- 🔭 Currently building **[Aletheia](https://github.com/Akash-jatt/aletheia)** — a local-first, BYO-key RAG knowledge base (hybrid retrieval: BM25 + dense vectors + RRF + reranking)
 - 🩺 Shipped **Smart-Stethoscope** — a telemedicine platform with real OAuth, OTP over Twilio/Resend, consultation lifecycle, and an in-app clinical AI assistant *(repo going public soon)*
 - 🧠 Deep in **retrieval-augmented generation, LLM orchestration (LangGraph), and evaluation** — grounded by daily **DSA practice** in Python
 - 🎯 I care about the unglamorous parts: encrypted key vaults, guardrails/PII redaction, observability (Langfuse · OpenTelemetry · Prometheus), and CI that actually gates merges
@@ -45,7 +45,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[MARS-1.0](https://github.com/Akash-jatt/mars-1.0)** | Local-first RAG knowledge base — hybrid retrieval (BM25 + dense + RRF + rerank), CRAG-style self-grading agent graph, encrypted BYO-key vault, full observability | FastAPI · Next.js · Qdrant · LangGraph · Groq |
+| **[Aletheia](https://github.com/Akash-jatt/aletheia)** | Local-first RAG knowledge base — hybrid retrieval (BM25 + dense + RRF + rerank), CRAG-style self-grading agent graph, encrypted BYO-key vault, full observability | FastAPI · Next.js · Qdrant · LangGraph · Groq |
 | **Smart-Stethoscope** *(publishing soon)* | Telemedicine platform handling PHI — passwordless auth, doctor verification, consultation lifecycle, audit trail, clinical AI assistant | Node/TS · React Native (Expo) · Twilio · SearXNG |
 
 ## GitHub stats
