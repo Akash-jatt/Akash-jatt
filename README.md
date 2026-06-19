@@ -2,18 +2,27 @@
 
 <!-- Typing intro — dual theme -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akash+Chaudhary;AI%2FML+Engineer+%C2%B7+RAG+Systems;Python+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+React+Native;I+build+end-to-end+AI+products" />
-  <img alt="AI/ML Engineer · RAG Systems · Python · TypeScript" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akash+Chaudhary;AI%2FML+Engineer+%C2%B7+RAG+Systems;Python+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+React+Native;I+build+end-to-end+AI+products" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Akash+Chaudhary;AI%2FML+Engineer+%C2%B7+RAG+Systems;Python+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+React+Native;I+build+end-to-end+AI+products" />
+  <img alt="AI/ML Engineer · RAG Systems · Python · TypeScript" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=2F80ED&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Akash+Chaudhary;AI%2FML+Engineer+%C2%B7+RAG+Systems;Python+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+React+Native;I+build+end-to-end+AI+products" />
 </picture>
+
+<br/>
+
+<!-- Status row -->
+<img src="https://img.shields.io/badge/Open_to-AI%2FML_Engineer_roles-2F80ED?style=for-the-badge" alt="Open to AI/ML roles" />
+<img src="https://img.shields.io/badge/Based_in-India-FF9933?style=for-the-badge" alt="Based in India" />
+<img src="https://img.shields.io/badge/Now_building-Aletheia_(RAG)-1C3C3C?style=for-the-badge" alt="Now building Aletheia" />
+<a href="https://github.com/Akash-jatt?tab=followers"><img src="https://img.shields.io/github/followers/Akash-jatt?style=for-the-badge&color=2F80ED&labelColor=0d1117" alt="Followers" /></a>
 
 </div>
 
 ## About me
 
-- 🔭 Currently building **[Aletheia](https://github.com/Akash-jatt/aletheia)** — a local-first, BYO-key RAG knowledge base (hybrid retrieval: BM25 + dense vectors + RRF + reranking)
+- 🔭 Currently building **[Aletheia](https://github.com/Akash-jatt/aletheia)** — a local-first, BYO-key RAG knowledge base (hybrid retrieval: BM25 + dense vectors + RRF + reranking) with a CRAG-style self-grading agent graph
 - 🩺 Shipped **Smart-Stethoscope** — a telemedicine platform with real OAuth, OTP over Twilio/Resend, consultation lifecycle, and an in-app clinical AI assistant *(repo going public soon)*
 - 🧠 Deep in **retrieval-augmented generation, LLM orchestration (LangGraph), and evaluation** — grounded by daily **DSA practice** in Python
-- 🎯 I care about the unglamorous parts: encrypted key vaults, guardrails/PII redaction, observability (Langfuse · OpenTelemetry · Prometheus), and CI that actually gates merges
+- 🎯 I care about the unglamorous parts: encrypted key vaults, guardrails / PII redaction, observability (Langfuse · OpenTelemetry · Prometheus), and CI that actually gates merges
+- 💬 Ask me about **RAG pipelines, agentic retrieval, FastAPI at scale, or shipping AI products end-to-end**
 
 ## Tech stack
 
@@ -48,7 +57,7 @@
 | **[Aletheia](https://github.com/Akash-jatt/aletheia)** | Local-first RAG knowledge base — hybrid retrieval (BM25 + dense + RRF + rerank), CRAG-style self-grading agent graph, encrypted BYO-key vault, full observability | FastAPI · Next.js · Qdrant · LangGraph · Groq |
 | **Smart-Stethoscope** *(publishing soon)* | Telemedicine platform handling PHI — passwordless auth, doctor verification, consultation lifecycle, audit trail, clinical AI assistant | Node/TS · React Native (Expo) · Twilio · SearXNG |
 
-## GitHub stats
+## 📊 GitHub stats
 
 <div align="center">
 
@@ -69,6 +78,10 @@
 
 <br/><br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Akash-jatt&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Akash-jatt&theme=tokyo-night&hide_border=true&area=true" />
   <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-jatt&hide_border=true&area=true" />
@@ -76,25 +89,33 @@
 
 </div>
 
-## Contribution snake
+## 🐍 Contribution snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash-jatt/Akash-jatt/output/github-snake-dark.svg" />
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Akash-jatt/Akash-jatt/output/github-snake.svg" />
 </picture>
 
+</div>
+
 ## Connect
 
 <div align="center">
 
 <a href="mailto:akashchaudhary02798@gmail.com"><img src="https://img.shields.io/badge/Email-akashchaudhary02798%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<!-- Fill these in, then remove the comment markers:
+<!-- Send me your LinkedIn + portfolio URLs and I'll wire these in:
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Akash_Chaudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://YOUR-PORTFOLIO.github.io"><img src="https://img.shields.io/badge/Portfolio-akash.dev-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+<a href="https://YOUR-PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-Live-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 -->
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Akash-jatt&style=flat-square&color=2F80ED" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Akash-jatt&style=flat-square&color=2F80ED&label=Profile+views" alt="Profile views" />
+
+<br/>
+
+<em>“Truth is revealing.” — building AI that shows its sources.</em>
 
 </div>
